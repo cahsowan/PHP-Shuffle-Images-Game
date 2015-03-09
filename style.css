@@ -1,0 +1,31 @@
+ol {
+	width: 606px;
+	height: 404px;
+	border-right: solid 2px red;
+	border-bottom: solid 2px red;
+	margin: 0 auto;
+	padding: 0;
+}
+li { 
+	float: left;
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	border-top: solid 2px red;
+	border-left: solid 2px red;
+	height: 200px;
+}
+li span {
+	position: absolute;
+	color: red;
+	font-size: 20px;
+	top: 5px;
+	left: 5px;
+}
+
+form {
+	width: 600px;
+	margin: 0 auto;
+}
+h3 { text-align: center;}
